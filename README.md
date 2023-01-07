@@ -1,1 +1,12 @@
 # Data-Analysis-using-Python
+
+This repository will include all my data analysis work using SQL (MySQL & PostgreSQL), including my coursework and my work from <code>DataCamp Data Scientist Certificate & Projects</code>, which will be conducted in Jupyter Notebook.
+
+Project Name  | Description   |  Topic
+------------- | ------------- | ------------------
+[Predicting Credit Card Approvals](https://github.com/roxanaishere/Data-Analysis-using-Python/blob/main/Predicting%20Credit%20Card%20Approvals/notebook.ipynb) | Build a machine learning model to predict if a credit card application will get approved. | Data Manipulation, Machine Learning, Importing and Cleaning Data, Applied Finance
+[Dr. Semmelweis and the Discovery of Handwashing](https://github.com/roxanaishere/Data-Analysis-using-Python/blob/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)  | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. | Data manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data
+[A Visual History of Nobel Prize Winners](https://github.com/roxanaishere/Data-Analysis-using-Python/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb) | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. | Data Manipulation, Data Visualization, Importing & Cleaning Data
+[The Android App Market on Google Play](https://github.com/roxanaishere/Data-Analysis-using-Python/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb) | Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market. | Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data
+[The GitHub History of the Scala Language](https://github.com/roxanaishere/Data-Analysis-using-Python/blob/main/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb) | Find the true Scala experts by exploring its development history in Git and GitHub. | Data Manipulation, Data Visualization, Importing & Cleaning Data
+[Investigating Netflix Movies and Guest Stars in The Office](https://github.com/roxanaishere/Data-Analysis-using-Python/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/notebook.ipynb) | Apply foundational Python skills by manipulating and visualizing movie and TV data. | Data Manipulation, Data Visualization, Programming
